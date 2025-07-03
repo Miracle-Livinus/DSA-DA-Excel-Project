@@ -21,4 +21,10 @@ Part of the information extracted include:
 - Categories with products having the highest discounts
 
 ### Key Findings from the Analysis
-1. 
+1. Average discount by Category didn't vary much, althougth "Home Improvements" topped the chart with **58%**.
+2. The "Electronics" Category has the highest number of products with **490**, while "Car and Motorbike", "Health and Personal Care", and "Toys & Games" has **1** each. This potentially explains why "Electronics" Category, with **14,208,406**, has the highest number of reviews, as well as total potential revenue at **₹91.324bn**.
+3. Only two products had a perfect rating of **5**, three others were rated **4.8**, while six were rated **4.7**.
+4. Number of products having 50% or more discount were **660**.
+5. Only **307** products had less than 100 reviews.
+6. The trajectory of the Average Actual Price and that of the Discounted Price were similar, showing a fair balance in discount percentage.
+7. There seemed not to be any relationship between product discount and average rating seeing that the least rated products (with and average of **3.94**) were those having a discount percentage of between **80 to 90%**, while products having less than 10% discount had an average rating of **4.2**), ranking No 2 - though second only to products with **90 to 100%** discount (with average rating of **4.22**).
