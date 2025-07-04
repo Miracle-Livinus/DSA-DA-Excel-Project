@@ -5,7 +5,7 @@ The base .xslx file contains product details extracted from Amazon website on so
 
 The initial number of products was **1,465** but after applying some data cleaning approaches to put the data in a well-structured format - which included removing duplicates, the number of products reduced to **1,348**.
 
-Excel Pivot Tables was used to extract analysis-worthy information from the .xslx file, which were further presented in a result dashboard.
+Excel Pivot Tables was used to extract analysis-worthy information from the .xslx file, which were further presented in a result dashboard herein attached.
 
 Part of the information extracted include:
 - Average discount percentage by Product Category
